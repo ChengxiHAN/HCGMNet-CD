@@ -4,6 +4,16 @@
 
 [2 Sep. 2023] Release the first version of the HCGMNet
 ![image-20230415](/picture/HCGMNet.png)
+### Requirement  
+```bash
+-Pytorch 1.8.0  
+-torchvision 0.9.0  
+-python 3.8  
+-opencv-python  4.5.3.56  
+-tensorboardx 2.4  
+-Cuda 11.3.1  
+-Cudnn 11.3  
+```
 ![image-20230415](/picture/HCGMNet-2.png)
 
 Our code will be released after the manuscript is accepted.
