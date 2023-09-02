@@ -34,7 +34,7 @@ Note: Please crop all datasets to a slice of 256×256 before training with it.
 
 ## Dataset Path Setting
 ```
- LEVIR-CD or WHU-CD or SYSU-CD or S2Looking-CD
+ LEVIR-CD or WHU-CD 
      |—train  
           |   |—A  
           |   |—B  
