@@ -17,7 +17,7 @@
 ## Training, Test and Visualization Process   
 
 ```bash
-python train_HCGMNet.py --epoch 2 --batchsize 8 --gpu_id '1' --data_name 'WHU' --model_name 'HCGMNet'   #HCGMNet
+python train_HCGMNet.py --epoch 50 --batchsize 8 --gpu_id '1' --data_name 'WHU' --model_name 'HCGMNet'   #HCGMNet
 
 python test.py --gpu_id '1' --data_name 'WHU' --model_name 'HCGMNet'
 ```
