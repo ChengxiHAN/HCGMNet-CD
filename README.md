@@ -50,6 +50,7 @@ Note: Please crop all datasets to a slice of 256×256 before training with it.
   ```        
  Where A contains images of the first temporal image, B contains images of the second temporal image, and label contains ground truth maps.  
 ![image-20230415](/picture/HCGMNet-2.png)
+![image-20230415](/picture/CDD&DSIFN&SYSU&S2Looking.png)
 
 ## Citation 
 
