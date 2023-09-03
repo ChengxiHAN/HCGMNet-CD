@@ -78,6 +78,9 @@ Note: We crop all datasets to a slice of 256×256 before training with it.
 
 
 ```
+## Acknowledgments
+ 
+Thanks to all my co-authors [Haonan Guo](https://scholar.google.com/citations?user=HvYxc84AAAAJ&hl=en),[Meiqi Hu](https://meiqihu.github.io/),[Jiepan Li](https://henryjiepanli.github.io/Jiepanli_Henry.github.io/), and [Hongruixuan Chen](https://chrx97.com/). Thanks  for their great work!!  
 
 ## Reference  
 [1] C. HAN, C. WU, H. GUO, M. HU, J.Li, AND H. CHEN, 
