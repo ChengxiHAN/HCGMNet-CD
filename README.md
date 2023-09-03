@@ -61,9 +61,11 @@ Note: We crop all datasets to a slice of 256×256 before training with it.
 ![image-20230415](/picture/HCGMNet-2.png)
 ![image-20230415](/picture/CDD&DSIFN&SYSU&S2Looking.png)
 
+
 ## Acknowledgments
  
 Thanks to all my co-authors [Haonan Guo](https://scholar.google.com/citations?user=HvYxc84AAAAJ&hl=en),[Meiqi Hu](https://meiqihu.github.io/),[Jiepan Li](https://henryjiepanli.github.io/Jiepanli_Henry.github.io/), and [Hongruixuan Chen](https://chrx97.com/). Thanks  for their great work!!  
+
 
 ## Citation 
 
