@@ -21,16 +21,25 @@ python train_HCGMNet.py --epoch 50 --batchsize 8 --gpu_id '1' --data_name 'WHU' 
 
 python test.py --gpu_id '1' --data_name 'WHU' --model_name 'HCGMNet'
 ```
+You can change data_name for different datasets like "LEVIR", "WHU", "SYSU", "S2Looking", "CDD", and "DSIFN".
 ## Test our trained model result 
-You can directly test our model by our provided training weights in  `output/WHU, LEVIR, SYSU, and S2Looking `.
+You can directly test our model by our provided HCGMNet weights in  `output/WHU, LEVIR, SYSU, S2Looking, CDD, and DSIFN `. Download in  [Baidu Disk](),pwd:2023 :yum::yum::yum:
 
+And also we provide all test results of our CGNet in the HCGMNetTestResult!!!! Download in CGNetTestResult or [Baidu Disk]( ),pwd:2023 :yum::yum::yum:
 ## Dataset Download   
 LEVIR-CD：https://justchenhao.github.io/LEVIR/  , our paper split in [Baidu Disk](https://pan.baidu.com/s/1VVry18KFl2MSWS6_IOlYRA?pwd=2023),pwd:2023 
 
 WHU-CD：http://gpcv.whu.edu.cn/data/building_dataset.html ,our paper split in [Baidu Disk](https://pan.baidu.com/s/1ZLmIyWvHnwyzhyl4xt-GwQ?pwd=2023),pwd:2023
 
+SYSU-CD: Our split in [Baidu Disk](https://pan.baidu.com/s/1p0QfogZm4BM0dd1a0LTBBw?pwd=2023),pwd:2023
 
-Note: Please crop all datasets to a slice of 256×256 before training with it.
+S2Looking-CD: Our split in [Baidu Disk](https://pan.baidu.com/s/1wAXPHhCLJTqPX0pC2RBMsg?pwd=2023),pwd:2023
+
+CDD-CD: Our split in [Baidu Disk](https://pan.baidu.com/s/1cwJ0mEhcrbCWOJn5n-N5Jw?pwd=2023),pwd:2023
+
+DSIFN-CD: Our split in [Baidu Disk]( https://pan.baidu.com/s/1-GD3z_eMoQglSJoi9P-6gw?pwd=2023),pwd:2023
+
+Note: We crop all datasets to a slice of 256×256 before training with it.
 
 ## Dataset Path Setting
 ```
