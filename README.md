@@ -1,6 +1,6 @@
 # HCGMNet-CD：https://chengxihan.github.io/
 
-“[HCGMNET: A HIERARCHICAL CHANGE GUIDING MAP NETWORK FOR CHANGE DETECTION](https://arxiv.org/abs/2302.10420), IGARSS 2023， Oral, Chengxi Han, Chen Wu, Bo Du, :yum::yum::yum:
+“[HCGMNET: A HIERARCHICAL CHANGE GUIDING MAP NETWORK FOR CHANGE DETECTION](https://ieeexplore.ieee.org/document/10283341), IGARSS 2023， Oral, Chengxi Han, Chen Wu, Bo Du, :yum::yum::yum:
 
 [2 Sep. 2023] Release the first version of the HCGMNet
 ![image-20230415](/picture/HCGMNet.png)
