@@ -69,7 +69,7 @@ if __name__ == '__main__':
     parser.add_argument('--gpu_id', type=str, default='0', help='train use gpu')  #修改这里！！！
     parser.add_argument('--data_name', type=str, default='WHU', #修改这里！！！
                         help='the test rgb images root')
-    parser.add_argument('--model_name', type=str, default='CGNet', #修改这里！！！
+    parser.add_argument('--model_name', type=str, default='HCGMNet', #修改这里！！！
                         help='the test rgb images root')
     parser.add_argument('--save_path', type=str,
                         default='./test_result/')
