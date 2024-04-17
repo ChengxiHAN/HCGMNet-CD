@@ -2,6 +2,24 @@
 
 “[HCGMNET: A HIERARCHICAL CHANGE GUIDING MAP NETWORK FOR CHANGE DETECTION](https://ieeexplore.ieee.org/document/10283341), IGARSS 2023， Oral, Chengxi Han, Chen Wu, Bo Du, :yum::yum::yum:
 
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hcgmnet-a-hierarchical-change-guiding-map/change-detection-on-googlegz-cd)](https://paperswithcode.com/sota/change-detection-on-googlegz-cd?p=hcgmnet-a-hierarchical-change-guiding-map)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hcgmnet-a-hierarchical-change-guiding-map/change-detection-on-levir)](https://paperswithcode.com/sota/change-detection-on-levir?p=hcgmnet-a-hierarchical-change-guiding-map)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hcgmnet-a-hierarchical-change-guiding-map/change-detection-on-sysu-cd)](https://paperswithcode.com/sota/change-detection-on-sysu-cd?p=hcgmnet-a-hierarchical-change-guiding-map)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hcgmnet-a-hierarchical-change-guiding-map/change-detection-on-whu-cd)](https://paperswithcode.com/sota/change-detection-on-whu-cd?p=hcgmnet-a-hierarchical-change-guiding-map)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hcgmnet-a-hierarchical-change-guiding-map/change-detection-on-s2looking)](https://paperswithcode.com/sota/change-detection-on-s2looking?p=hcgmnet-a-hierarchical-change-guiding-map)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hcgmnet-a-hierarchical-change-guiding-map/change-detection-on-dsifn-cd)](https://paperswithcode.com/sota/change-detection-on-dsifn-cd?p=hcgmnet-a-hierarchical-change-guiding-map)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hcgmnet-a-hierarchical-change-guiding-map/change-detection-on-levir-cd)](https://paperswithcode.com/sota/change-detection-on-levir-cd?p=hcgmnet-a-hierarchical-change-guiding-map)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hcgmnet-a-hierarchical-change-guiding-map/change-detection-on-cdd-dataset-season-1)](https://paperswithcode.com/sota/change-detection-on-cdd-dataset-season-1?p=hcgmnet-a-hierarchical-change-guiding-map)
+
+
 [2 Sep. 2023] Release the first version of the HCGMNet
 ![image-20230415](/picture/HCGMNet.png)
 ### Requirement  
